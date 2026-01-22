@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# Downloaded PDFs / Books folder
+tamilvu_books/*
+
+# Logs
+*.log
+
+# JSON output files (optional)
+metadata.json
+example.json
